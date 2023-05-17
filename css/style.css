@@ -1,0 +1,80 @@
+#banner{
+    float: right;
+    margin: -153px 44px 10px 10px;
+}
+#logo{
+    margin: 10px 1189px 10px 34px;
+}
+
+#logo img{
+    border: 1px solid red;
+    border-radius: 40%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #07afe0;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #111;
+  }
+  
+  .active {
+    background-color: #04AA6D;
+  }
+  .menu{
+    margin: 22px 41px 10px 16px;
+  }
+  #leftmenu{
+    float: left;
+    margin: 10px 10px 10px 16px;
+    border: 2px solid red;
+  }
+  #leftmenu ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+  }
+
+  #leftmenu li a {
+    display: block;
+    color: rgb(6, 10, 239);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  #rightmenu{
+    float: right;
+    margin: 10px 43px 10px 10px;
+  }
+
+  #rightmenu li{
+    padding: 10px;
+  }
+  p{
+    text-align: justify;
+  }
+
+  .footer{
+    text-align: center;
+  }
+
+
